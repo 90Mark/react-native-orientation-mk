@@ -1,0 +1,26 @@
+{
+  "name": "react-native-orientation-mk",
+  "version": "1.0.3",
+  "description": "orientation 屏幕旋转",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/90Mark/react-native-orientation-mk.git"
+  },
+  "keywords": [
+    "react-native",
+    "orientation",
+    "ios",
+    "android",
+    "rn"
+  ],
+  "author": "90Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/90Mark/react-native-orientation-mk/issues"
+  },
+  "homepage": "https://github.com/90Mark/react-native-orientation-mk#readme"
+}
