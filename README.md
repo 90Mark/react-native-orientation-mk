@@ -3,12 +3,18 @@
 ---
 使用方法：
 
+安装
+
     npm install react-native-orientation-mk --save
     react-native link react-native-orientation-mk
 
     ios需要 pod install
 
 自动link如果不成功，需要手动link
+
+导入
+
+    import Orientation from 'react-native-orientation-hfjy'
 
 ---
 
